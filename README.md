@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Dev.
 - 💞️ I’m looking to collaborate on real World Projects.
 - 📫 How to reach me 
+      https://www.linkedin.com/in/rishabh-gupta-ba64a222a/
 
 <!---
 gupta-veer-rishabh/gupta-veer-rishabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
